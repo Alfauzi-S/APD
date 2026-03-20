@@ -27,19 +27,15 @@ Repository ini digunakan untuk menyimpan dan mengelola semua file tugas, ujian t
 
 ## 📦 Install Dependencies
 
-Untuk menginstall semua required libraries, jalankan:
-
 ```bash
 pip install pandas matplotlib seaborn numpy
 ```
-
 
 ## 📝 Materi yang Dicakup
 
 ### Data Analysis & Visualization
 - Data manipulation dengan pandas
 - Visualisasi dengan matplotlib & seaborn
-- Statistical analysis
 
 ## 📚 Resources
 
