@@ -1,0 +1,101 @@
+nim,nama,prodi,ipk,angkatan,fakultas
+D001,Alfauzi Syahputra,informatika,4.00,2025,teknik
+D002,Siti Nurhaliza,sistem informasi,3.25,2024,teknik
+D003,Budi Santoso,elektro,2.35,2023,teknik
+D004,Dewi Kartika,manajemen,3.65,2025,ekonomi
+D005,Rizky Pratama,akuntansi,2.2,2024,ekonomi
+D006,Lina Marlina,elektro,3.8,2023,teknik
+D007,Agus Salim,sistem informasi,2.5,2022,teknik
+D008,Maria Sari,informatika,4.00,2024,teknik
+D009,Yusuf Hidayat,manajemen,2.95,2025,ekonomi
+D010,Ratih Permata,akuntansi,2.45,2023,ekonomi
+D011,Andi Saputra,elektro,3.55,2022,teknik
+D012,Tri Wulandari,sistem informasi,3.25,2024,teknik
+D013,Hendra Kurniawan,informatika,4.00,2025,teknik
+D014,Nina Febrianti,manajemen,2.8,2023,ekonomi
+D015,Faisal Rahman,akuntansi,2.275,2022,ekonomi
+D016,Yuni Kartika,sistem informasi,3.725,2024,teknik
+D017,Rian Pratama,elektro,4.00,2025,teknik
+D018,Fitri Lestari,informatika,3.4,2023,teknik
+D019,Dani Setiawan,manajemen,2.125,2022,ekonomi
+D020,Tina Agustina,akuntansi,3.65,2024,ekonomi
+D021,Rahmat Hidayat,sistem informasi,3.1,2025,teknik
+D022,Desi Ratnasari,elektro,2.45,2023,teknik
+D023,Bayu Nugroho,informatika,3.925,2022,teknik
+D024,Lisa Ayu,manajemen,2.725,2024,ekonomi
+D025,Ari Kurniawan,akuntansi,3.25,2025,ekonomi
+D026,Siska Melani,sistem informasi,3.55,2023,teknik
+D027,Tomi Firmansyah,elektro,3.775,2022,teknik
+D028,Sari Lestari,informatika,2.35,2024,teknik
+D029,Rizal Prasetya,manajemen,2.95,2025,ekonomi
+D030,Dian Puspita,akuntansi,3.4,2023,ekonomi
+D031,Joko Widodo,sistem informasi,2.125,2022,teknik
+D032,Mega Safitri,elektro,3.85,2024,teknik
+D033,Rendi Pratama,informatika,3.725,2025,teknik
+D034,Kartika Dewi,manajemen,2.5,2023,ekonomi
+D035,Wawan Setiawan,akuntansi,1.9,2022,ekonomi
+D036,Yessi Anggraini,sistem informasi,3.65,2024,teknik
+D037,Ade Kusuma,elektro,4.00,2025,teknik
+D038,Indah Sari,informatika,3.1,2023,teknik
+D039,Fajar Nugroho,manajemen,2.2,2022,ekonomi
+D040,Riska Amelia,akuntansi,3.25,2024,ekonomi
+D041,Adi Prasetyo,sistem informasi,3.55,2025,teknik
+D042,Lulu Fitriani,elektro,2.45,2023,teknik
+D043,Eko Prasetya,informatika,3.925,2022,teknik
+D044,Maya Safitri,manajemen,2.8,2024,ekonomi
+D045,Rian Saputra,akuntansi,3.4,2025,ekonomi
+D046,Ani Lestari,sistem informasi,2.5,2023,teknik
+D047,Rudi Hartono,elektro,3.85,2022,teknik
+D048,Nurul Hidayah,informatika,2.35,2024,teknik
+D049,Dika Pratama,manajemen,2.95,2025,ekonomi
+D050,Ratna Dewi,akuntansi,3.55,2023,ekonomi
+D051,Yadi Supriyadi,sistem informasi,1.875,2022,teknik
+D052,Tia Kusuma,elektro,3.775,2024,teknik
+D053,Bima Sakti,informatika,3.65,2025,teknik
+D054,Suci Ramadhani,manajemen,2.725,2023,ekonomi
+D055,Asep Kurniawan,akuntansi,2.275,2022,ekonomi
+D056,Reni Lestari,sistem informasi,3.725,2024,teknik
+D057,Taufik Hidayat,elektro,4.00,2025,teknik
+D058,Anisa Putri,informatika,3.25,2023,teknik
+D059,Dimas Prasetya,manajemen,2.45,2022,ekonomi
+D060,Ria Anggraini,akuntansi,3.4,2024,ekonomi
+D061,Arianto Kusuma,sistem informasi,2.8,2025,teknik
+D062,Sari Handayani,elektro,2.35,2023,teknik
+D063,Ferry Pratama,informatika,4.00,2022,teknik
+D064,Tina Sari,manajemen,3.1,2024,ekonomi
+D065,Yuni Lestari,akuntansi,2.5,2025,ekonomi
+D066,Rizki Firmansyah,sistem informasi,3.55,2023,teknik
+D067,Hanifah Dewi,elektro,2.2,2022,teknik
+D068,Budi Hartono,informatika,3.925,2024,teknik
+D069,Maya Puspita,manajemen,2.95,2025,ekonomi
+D070,Dedi Prasetyo,akuntansi,2.45,2023,ekonomi
+D071,Ratih Kusuma,sistem informasi,3.25,2022,teknik
+D072,Ahmad Yusuf,elektro,3.775,2024,teknik
+D073,Nina Safitri,informatika,3.65,2025,teknik
+D074,Faisal Pratama,manajemen,2.725,2023,ekonomi
+D075,Desi Handayani,akuntansi,2.275,2022,ekonomi
+D076,Joko Prasetyo,sistem informasi,3.4,2024,teknik
+D077,Lisa Kurniawan,elektro,1.975,2025,teknik
+D078,Rian Kusuma,informatika,3.85,2023,teknik
+D079,Tri Anggraini,manajemen,2.8,2022,ekonomi
+D080,Sari Prasetya,akuntansi,2.5,2024,ekonomi
+D081,Ade Pratama,sistem informasi,3.65,2025,teknik
+D082,Bayu Kurniawan,elektro,4.00,2023,teknik
+D083,Yuni Handayani,informatika,2.45,2022,teknik
+D084,Rizal Prasetyo,manajemen,3.1,2024,ekonomi
+D085,Dian Kusuma,akuntansi,3.4,2025,ekonomi
+D086,Fajar Pratama,sistem informasi,2.725,2023,teknik
+D087,Lulu Kurniawan,elektro,2.275,2022,teknik
+D088,Mega Prasetya,informatika,3.775,2024,teknik
+D089,Eko Handayani,manajemen,2.95,2025,ekonomi
+D090,Maya Pratama,akuntansi,3.25,2023,ekonomi
+D091,Riska Kurniawan,sistem informasi,2.35,2022,teknik
+D092,Rendi Prasetyo,elektro,3.85,2024,teknik
+D093,Nurul Prasetya,informatika,3.55,2025,teknik
+D094,Yadi Kusuma,manajemen,2.8,2023,ekonomi
+D095,Tia Prasetya,akuntansi,2.45,2022,ekonomi
+D096,Adi Handayani,sistem informasi,3.1,2024,teknik
+D097,Bima Prasetya,elektro,3.925,2025,teknik
+D098,Suci Prasetya,informatika,3.4,2023,teknik
+D099,Ratna Prasetya,manajemen,2.5,2022,ekonomi
+D100,Dika Kusuma,akuntansi,3.65,2024,ekonomi
