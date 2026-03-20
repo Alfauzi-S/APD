@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Tes Studi Kasus"/>
+        <attribute name="authors" value="USER"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-09-20 03:50:43 PM"/>
+        <attribute name="created" value="VVNFUjtERVNLVE9QLVRRT0lUUkg7MjAyNS0wOS0yMDswMjoxNDo1NSBQTTsyNzM4"/>
+        <attribute name="edited" value="VVNFUjtERVNLVE9QLVRRT0lUUkg7MjAyNS0wOS0yMDswMzo1MDo0MyBQTTs1OzI4NDg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="ulang" type="String" array="False" size=""/>
+            <declare name="NIM, testdigit, digit, digitterakhir, i, faktor" type="Integer" array="False" size=""/>
+            <declare name="harga, diskon, total" type="Real" array="False" size=""/>
+            <assign variable="ulang" expression="&quot;y&quot;"/>
+            <comment text="Bagian Deklarasi Variabel"/>
+            <while expression="ulang == &quot;y&quot;">
+                <comment text="Pengulangan untuk memastikan program terus berjalan"/>
+                <output expression="&quot;Masukkan NIM Anda&quot;" newline="True"/>
+                <input variable="NIM"/>
+                <assign variable="testdigit" expression="NIM"/>
+                <assign variable="digit" expression="0"/>
+                <while expression="testdigit &gt; 0">
+                    <comment text="Bagian untuk memeriksa jumlah digit NIM yang dimasukkan"/>
+                    <assign variable="testdigit" expression="testdigit / 10"/>
+                    <assign variable="digit" expression="digit + 1"/>
+                </while>
+                <output expression="&quot;Jumlah digit : &quot; &amp;digit" newline="True"/>
+                <comment text="Bagian untuk memeriksa apakah jumlah digit NIM sama dengan 10"/>
+                <if expression="digit == 10">
+                    <then>
+                        <comment text="Bagian untuk mengambil tiga digit terakhir dari NIM"/>
+                        <assign variable="digitterakhir" expression="NIM mod 1000"/>
+                        <output expression="&quot;3 digit terakhir : &quot; &amp;digitterakhir" newline="True"/>
+                        <assign variable="faktor" expression="0"/>
+                        <for variable="i" start="1" end="digitterakhir + 1" direction="inc" step="1">
+                            <comment text="Bagian untuk memeriksa jumlah faktor dari tiga digit terakhir NIM"/>
+                            <if expression="digitterakhir mod i == 0">
+                                <then>
+                                    <assign variable="faktor" expression="faktor + 1"/>
+                                </then>
+                                <else/>
+                            </if>
+                        </for>
+                        <output expression="&quot;Jumlah faktor : &quot;&amp;faktor" newline="True"/>
+                        <comment text="Bagian untuk memeriksa apakah tiga digit terakhir NIM merupakan bilangan prima"/>
+                        <if expression="faktor == 2">
+                            <then>
+                                <output expression="&quot;Prima : Iya&quot;" newline="True"/>
+                                <output expression="&quot;Masukkan Harga&quot;" newline="True"/>
+                                <comment text="Bagian untuk menghitung diskon yang didapat"/>
+                                <input variable="harga"/>
+                                <output expression="&quot;Harga : &quot; &amp;harga" newline="True"/>
+                                <assign variable="diskon" expression="harga * 0.20"/>
+                                <output expression="&quot;Diskon 20% : &quot; &amp;diskon" newline="True"/>
+                                <assign variable="total" expression="harga - diskon"/>
+                                <output expression="&quot;Total : &quot; &amp;total" newline="True"/>
+                            </then>
+                            <else>
+                                <output expression="&quot;Prima : Tidak&quot;" newline="True"/>
+                                <output expression="&quot;Maaf, anda tidak mendapatkan potongan harga&quot;" newline="True"/>
+                            </else>
+                        </if>
+                    </then>
+                    <else>
+                        <output expression="&quot;NIM yang dimasukkan salah!&quot;" newline="True"/>
+                    </else>
+                </if>
+                <comment text="Bagian untuk memeriksa apakah program mau dijalankan kembali atau tidak"/>
+                <output expression="&quot;Apakah ingin mengulang program? (y/n)&quot;" newline="True"/>
+                <input variable="ulang"/>
+            </while>
+            <output expression="&quot;Program Selesai!&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,18 @@
+Tugas: 
+Selesaikan system persamaan berikut dengan Metode Gauss-Jordan: 
+3𝑥 +𝑦−𝑧=5 
+4𝑥 +7𝑦−3𝑧 =20 
+2𝑥 −2𝑦+5𝑧 =10 
+
+Tugas: 
+Selasaikan system persamaan berikut ini dengan menggunakan metode Cholesky 
+2𝑥1 +𝑥2 = 7 
+x1 +𝑥2 −3𝑥3 = −10 
+6𝑥2 −2𝑥3 +𝑥4 = 7 
+2𝑥3 −3𝑥4 = 13 
+
+Tugas: 
+Selesaikan system persamaan ini dengan metode Gauss-Seidel 
+3𝑥+𝑦−𝑧=5 
+4𝑥+7𝑦−3𝑧=20 
+2𝑥−2𝑦+5𝑧=10 
