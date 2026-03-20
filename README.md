@@ -103,4 +103,4 @@ print(np.sum(arr))
 
 
 **Dibuat oleh:** Alfauzi-S  
-**Tahun:** 2026
+**Tahun:** 2025
