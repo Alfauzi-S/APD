@@ -1,6 +1,6 @@
-# APD - Algoritma dan Pemerograman Dasar
+# APD - Algoritma dan Pemrograman Dasar
 
-Repository ini berisi kumpulan tugas, UTS, dan UAS untuk mata kuliah **Algoritma dan Pemerograman Dasar (APD)**.
+Repository ini berisi kumpulan tugas, UTS, dan UAS untuk mata kuliah **Algoritma dan Pemrograman Dasar (APD)**.
 
 ## 📚 Deskripsi Repository
 
