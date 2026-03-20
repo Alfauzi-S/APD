@@ -1,6 +1,6 @@
-# APD - Algoritma dan Struktur Data
+# APD - Algoritma dan Pemerograman Dasar
 
-Repository ini berisi kumpulan tugas, UTS, dan UAS untuk mata kuliah **Algoritma dan Struktur Data (APD)**.
+Repository ini berisi kumpulan tugas, UTS, dan UAS untuk mata kuliah **Algoritma dan Pemerograman Dasar (APD)**.
 
 ## 📚 Deskripsi Repository
 
